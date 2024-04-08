@@ -1,1 +1,1 @@
-# glssmorph_yt
+Ćwiczenie animacji w css'ie.
